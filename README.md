@@ -5,10 +5,10 @@ Click on the project link, then click the 'Open in Colab' badge.  You should sav
 
 List of in-class assignments (e.g. exercises, not projects):
 
-1)  Composing Transformations to Drive a Car:
+1)  Composing Transformations to Drive a Car:  (Jan. 27, 2020)
      https://github.com/awangberg/AdvLinearAlgebra/blob/master/Copy_of_Transformations_for_Car.ipynb
 
-2)  Transformations using Bases:
+2)  Transformations using Bases:  (Feb. 19, 2020)
      https://github.com/awangberg/AdvLinearAlgebra/blob/master/Transformations_using_Bases.ipynb
 
 

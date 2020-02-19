@@ -8,8 +8,8 @@ List of in-class assignments (e.g. exercises, not projects):
 1)  Composing Transformations to Drive a Car:  (Jan. 27, 2020)
      https://github.com/awangberg/AdvLinearAlgebra/blob/master/Copy_of_Transformations_for_Car.ipynb
 
-2)  Transformations using Bases:  (Feb. 19, 2020)
-     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Transformations_uses_Bases.ipynb
+2)  Transformations with Bases:  (Feb. 19, 2020)
+     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Transformations_with_Bases.ipynb
 
 
 List of Projects (for write-up):

@@ -9,7 +9,7 @@ List of in-class assignments (e.g. exercises, not projects):
      https://github.com/awangberg/AdvLinearAlgebra/blob/master/Copy_of_Transformations_for_Car.ipynb
 
 2)  Transformations using Bases:  (Feb. 19, 2020)
-     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Transformations_using_Bases.ipynb
+     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Transformations_uses_Bases.ipynb
 
 
 List of Projects (for write-up):

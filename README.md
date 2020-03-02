@@ -16,4 +16,5 @@ List of Projects (for write-up):
 
 1) Tanget Vectors and Transformations  (Due Monday, Feb. 17th by midnight.)  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_1_Tangent_vectors_and_transformations.ipynb
 
-2)
+2) Transformations Summary (Due March 23, 2020 by midnight.)
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_2_Summary_of_Transformations.ipynb

@@ -18,3 +18,6 @@ List of Projects (for write-up):
 
 2) Transformations Summary (Due March 23, 2020 by midnight.)
   https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_2_Summary_of_Transformations.ipynb
+
+3) Singular Value Decomposition with Images (Due April 20, 2020 by midnight.)
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Singular_Value_Decomposition_with_an_image.ipynb

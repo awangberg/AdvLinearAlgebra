@@ -14,20 +14,22 @@ List of in-class assignments (e.g. exercises, not projects):
 
 List of Projects (for write-up):
 
-1) Tanget Vectors and Transformations  (Due Monday, Feb. 17th by midnight.)  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_1_Tangent_vectors_and_transformations.ipynb
+1) Tanget Vectors and Transformations  (Due Monday, Feb. 17th by midnight.)  
+     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_1_Tangent_vectors_and_transformations.ipynb
 
 2) Transformations Summary (Due March 23, 2020 by midnight.)
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_2_Summary_of_Transformations.ipynb
+     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_2_Summary_of_Transformations.ipynb
 
 3) Singular Value Decomposition with Images (Due April 20, 2020 by midnight.)
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Singular_Value_Decomposition_with_an_image.ipynb
+     https://github.com/awangberg/AdvLinearAlgebra/blob/master/Singular_Value_Decomposition_with_an_image.ipynb
 
 4) Solving linear systems using best-fit and SVD (Due May 8th, 2020 by midnight.)
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_0_Solving_for_a_known_polynomial_function_using_Singular_Values_or_Best_Fit.ipynb
+
+     Case 0: https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_0_Solving_for_a_known_polynomial_function_using_Singular_Values_or_Best_Fit.ipynb
   
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_1_Solving_for_a_known_trigonometric_function_using_Singular_Values_or_Best_Fit.ipynb
+     Case 1: https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_1_Solving_for_a_known_trigonometric_function_using_Singular_Values_or_Best_Fit.ipynb
   
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_2_Solving_for_a_unknown_function_using_data_and_Singular_Values_or_Best_Fit.ipynb
+     Case 2: https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_2_Solving_for_a_unknown_function_using_data_and_Singular_Values_or_Best_Fit.ipynb
   
-  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_3_An_Interesting_Case_using_Singular_Values_and_Best_Fit.ipynb
+     Case 3: https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_3_An_Interesting_Case_using_Singular_Values_and_Best_Fit.ipynb
   

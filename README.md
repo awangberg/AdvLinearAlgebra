@@ -21,3 +21,13 @@ List of Projects (for write-up):
 
 3) Singular Value Decomposition with Images (Due April 20, 2020 by midnight.)
   https://github.com/awangberg/AdvLinearAlgebra/blob/master/Singular_Value_Decomposition_with_an_image.ipynb
+
+4) Solving linear systems using best-fit and SVD (Due May 8th, 2020 by midnight.)
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_0_Solving_for_a_known_polynomial_function_using_Singular_Values_or_Best_Fit.ipynb
+  
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_1_Solving_for_a_known_trigonometric_function_using_Singular_Values_or_Best_Fit.ipynb
+  
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_2_Solving_for_a_unknown_function_using_data_and_Singular_Values_or_Best_Fit.ipynb
+  
+  https://github.com/awangberg/AdvLinearAlgebra/blob/master/Project_4_Case_3_An_Interesting_Case_using_Singular_Values_and_Best_Fit.ipynb
+  
